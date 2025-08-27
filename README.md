@@ -62,7 +62,7 @@ An AI-assisted financial modeling platform that generates comprehensive 3-statem
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/iyanski/finmod)
+   git clone git@github.com:iyanski/finmod.git
    cd finmod
    ```
 
