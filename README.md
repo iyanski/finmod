@@ -2,6 +2,8 @@
 
 An AI-assisted financial modeling platform that generates comprehensive 3-statement financial models from business descriptions in plain English.
 
+![FinMod AI Platform](image.png)
+
 ## 🚀 Features
 
 - **AI-Powered Business Classification**: Automatically identifies business models (SaaS, eCommerce, Marketplace, etc.)
